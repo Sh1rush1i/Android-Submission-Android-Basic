@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Aneka Buah</string>
+
+    <string name="fruit_name">Nama Buah</string>
+    <string name="description">Deskripsi</string>
+    <string-array name="data_preview">
+        <item>Anggur buah manis berwarna, dengan aroma khas, kaya nutrisi, memberi variasi rasa.</item>
+        <item>Apel buah yang segar, renyah saat digigit, manis, berair, dan kaya serat.</item>
+        <item>Durian berduri, beraroma kuat, manis, lembut, berdaging tebal.</item>
+        <item>Jambu segar, renyah, manis, berair, berbiji, kaya vitamin.</item>
+        <item>Jambu air segar, renyah, manis, berair, berwarna-warni, dan penuh dengan vitamin serta mineral.</item>
+        <item>Jeruk rasanya asam, manis, berair, berwarna cerah, dan penuh dengan vitamin C yang menyegarkan.</item>
+        <item>Kelengkeng manis, berdaging, berair, kecil, berbiji, dan memiliki kulit merah yang menggiurkan.</item>
+        <item>Mangga buah tropis yang manisnya yang khas, berair dan berdaging, warna yang bervariasi.</item>
+        <item>Melon buah segar, manis, berair, berdaging lembut, dan kaya akan nutrisi serta rendah kalori.</item>
+        <item>Pir buah bertekstur yang renyah dan rasa yang manis, dengan daging yang berair dan kaya akan nutrisi. </item>
+    </string-array>
+    <string-array name="data_name">
+        <item>Anggur</item>
+        <item>Apel</item>
+        <item>Durian</item>
+        <item>Jambu</item>
+        <item>Jambu Air</item>
+        <item>Jeruk</item>
+        <item>Kelengkeng</item>
+        <item>Mangga</item>
+        <item>Melon</item>
+        <item>Pir</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Anggur adalah buah beri yang tumbuh di sejumlah varietas tanaman anggur. Buah ini dikenal dengan kulit yang halus, daging yang juicy, dan biasanya memiliki biji di dalamnya. Anggur datang dalam berbagai warna seperti merah, ungu, hijau, dan keemasan, tergantung pada jenisnya. Mereka sering dimakan langsung sebagai buah segar atau dijadikan bahan dasar untuk pembuatan jus, anggur kering, anggur beralkohol, atau sebagai komponen dalam hidangan masakan dan kue. Selain itu, anggur juga dikenal karena memiliki nilai gizi tinggi dan sering dikaitkan dengan manfaat kesehatan karena kandungan antioksidannya.</item>
+        <item>Apel adalah buah yang berasal dari pohon apel (Malus domestica) dan merupakan salah satu buah paling populer di dunia. Buah ini memiliki kulit yang halus dan berwarna bervariasi, mulai dari merah, kuning, hijau, hingga kombinasi warna-warni. Daging apel biasanya renyah, manis, dan memiliki rasa segar. Apel dapat dimakan langsung atau diolah menjadi berbagai hidangan, seperti pai, saus apel, selai, atau jus. Selain rasanya yang lezat, apel juga kaya akan serat, vitamin, dan antioksidan yang baik untuk kesehatan tubuh.</item>
+        <item>Durian adalah buah tropis yang terkenal dengan aromanya yang kuat dan rasa yang khas. Buah ini tumbuh di pohon durian (Durio spp.) yang dapat mencapai tinggi hingga 30 meter. Durian memiliki kulit yang keras dan berduri, dengan daging buah yang tebal, berwarna kuning atau putih, serta memiliki biji di dalamnya. Rasanya bervariasi dari manis hingga sedikit pahit, dengan tekstur yang lembut dan berminyak. Durian sering disebut sebagai "raja buah" dan dianggap sebagai makanan ikonik di beberapa negara Asia Tenggara. Meskipun dihargai karena rasanya yang lezat, beberapa orang mungkin tidak menyukai aromanya yang kuat dan unik. Namun, bagi para penggemarnya, durian adalah pengalaman kuliner yang sangat istimewa.</item>
+        <item>Jambu adalah buah yang berasal dari pohon jambu (Psidium guajava) dan merupakan salah satu buah yang populer di berbagai belahan dunia, terutama di wilayah tropis dan subtropis. Buah jambu memiliki berbagai jenis, di antaranya jambu biji dan jambu air. Jambu biji memiliki kulit berwarna hijau atau merah dengan daging buah yang berwarna putih atau merah muda, sedangkan jambu air memiliki kulit yang tipis, berwarna hijau atau kuning dengan daging yang segar dan renyah.</item>
+        <item>Jambu air, juga dikenal sebagai jambu merah, adalah jenis buah tropis yang tumbuh di pohon jambu air (Psidium guajava). Buah ini memiliki kulit tipis yang biasanya berwarna hijau, kuning, atau merah muda, tergantung pada tingkat kematangannya. Daging buah jambu air biasanya berwarna putih atau merah muda, berair, dan memiliki rasa yang manis dengan sedikit rasa asam yang menyegarkan.</item>
+        <item>Jeruk adalah buah sitrus yang berasal dari pohon jeruk (Citrus sinensis) dan merupakan salah satu buah yang paling populer di dunia. Jeruk memiliki kulit yang tebal, berwarna oranye, dan bisa menjadi merah atau kuning tergantung pada varietasnya. Daging buahnya bisa berwarna oranye atau kuning, dan memiliki rasa manis dengan sedikit rasa asam yang menyegarkan.</item>
+        <item>Kelengkeng adalah buah tropis yang tumbuh di pohon kelengkeng (Dimocarpus longan) dan merupakan anggota dari keluarga Sapindaceae. Buah ini memiliki kulit yang tipis dan berwarna cokelat atau merah kecokelatan, dengan daging buah yang transparan dan berair di dalamnya. Biasanya, setiap buah kelengkeng mengandung satu biji besar di tengahnya.</item>
+        <item>Mangga adalah buah tropis yang tumbuh di pohon mangga (Mangifera indica) dan merupakan salah satu buah yang paling populer di dunia. Buah mangga memiliki kulit yang halus dan bisa berwarna hijau, kuning, oranye, atau merah, tergantung pada jenis dan tingkat kematangannya. Daging buahnya biasanya berwarna kuning, oranye, atau hijau, tergantung pada varietasnya, dan memiliki rasa manis yang khas dengan sedikit rasa asam yang menyegarkan.</item>
+        <item>Melon adalah buah musim panas yang terkenal dengan rasa manisnya dan kandungan air yang tinggi. Buah melon berasal dari tanaman musim panas yang tumbuh merambat dan termasuk dalam keluarga Cucurbitaceae. Melon memiliki kulit yang halus dan kadang-kadang berduri, dengan daging buah yang berwarna oranye, kuning, hijau, atau putih tergantung pada jenisnya.</item>
+        <item>"Pir" biasanya mengacu pada buah pir, yang berasal dari pohon pir (Pyrus spp.). Buah pir memiliki bentuk yang bulat atau lonjong dengan kulit yang tipis dan halus, biasanya berwarna hijau, kuning, merah, atau kombinasi dari ketiganya tergantung pada jenisnya. Daging buah pir bisa berwarna putih, krem, atau kuning, dengan tekstur yang lembut dan rasa yang manis dengan sedikit rasa asam.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/anggur</item>
+        <item>@drawable/apel</item>
+        <item>@drawable/durian</item>
+        <item>@drawable/jambu</item>
+        <item>@drawable/jambuair</item>
+        <item>@drawable/jeruk</item>
+        <item>@drawable/kelengkeng</item>
+        <item>@drawable/mangga</item>
+        <item>@drawable/melon</item>
+        <item>@drawable/pir</item>
+    </integer-array>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="detail">Detail</string>
+    <string name="about">About</string>
+    <string name="name">Maula Syabil Haqq</string>
+    <string name="email">hanya.haqq@gmail.com</string>
+</resources>
